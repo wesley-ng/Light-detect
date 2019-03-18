@@ -1,0 +1,19 @@
+{
+  "name": "light-detector",
+  "version": "1.0.0",
+  "description": "Mendeteksi petir",
+  "main": "index.js",
+  "scripts": {
+    "sass-compile": "node-sass -w sass/ -o dist/css/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wesley-ng/Light-detect.git"
+  },
+  "author": "Wesley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wesley-ng/Light-detect/issues"
+  },
+  "homepage": "https://github.com/wesley-ng/Light-detect#readme"
+}
